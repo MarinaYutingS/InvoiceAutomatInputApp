@@ -1,1 +1,5 @@
+# PDF files
 *.pdf
+
+# Virtual environment
+venv_JB
