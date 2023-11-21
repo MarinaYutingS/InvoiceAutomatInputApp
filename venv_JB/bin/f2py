@@ -1,4 +1,4 @@
-#!/Users/shayuting/Documents/05.SoftwareConfig/JB_invoice/venv_JB/bin/python3.12
+#!/Users/shayuting/Desktop/JB_invoice/venv_JB/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
