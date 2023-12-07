@@ -13,8 +13,8 @@ def remove_duplicates(input_file, output_file):
     print(f"Duplicates removed. Result saved to {output_file}")
 
 # Example usage:
-input_csv_file = 'invoice_reading/02. Suppliers - TTCC.csv'  # Replace with the path to your input CSV file
-output_csv_file = 'invoice_reading/output-ttcc.csv'  # Replace with the desired output CSV file
+input_csv_file = 'invoice_reading/DB_raw/02. Suppliers - IBEX.csv'  # Replace with the path to your input CSV file
+output_csv_file = 'invoice_reading/DB_output/output-IBEX.csv'  # Replace with the desired output CSV file
 
 remove_duplicates(input_csv_file, output_csv_file)
 

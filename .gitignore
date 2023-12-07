@@ -3,3 +3,11 @@
 
 # Virtual environment
 venv_JB
+
+# csv files
+DB_output/*
+DB_raw/*
+
+# But don't ignore the folder itself
+!DB_output/
+!DB_raw/*
