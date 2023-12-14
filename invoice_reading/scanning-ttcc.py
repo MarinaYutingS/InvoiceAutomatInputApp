@@ -49,7 +49,7 @@ if __name__ == "__main__":
     }
 
     # Provide the desired output JSON file path
-    json_path = 'invoice_reading/invoices/output_invoice.json'
+    json_path = 'invoice_reading/invoices/output_ttcc.json'
 
     # Extract data from the invoice PDF based on column names
     invoice_data = extract_invoice_data(pdf_path, column_names)
